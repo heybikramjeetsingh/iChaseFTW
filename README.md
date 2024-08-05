@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iChaseFTW
+- 👋 Hi, I’m @heyBikramJeetSingh
 - 👀 I’m interested in web development, coding, and technology.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on web development projects.
