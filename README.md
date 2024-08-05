@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, coding, and technology.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on web development projects.
-- 📫 How to reach me: LinkedIn | bikram-jeet-singh-ftw.
+- 📫 How to reach me: LinkedIn | in/heybikramjeetsingh.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I recently started learning web development without a CS degree and am determined to succeed!
 <!---
