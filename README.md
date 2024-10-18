@@ -1,4 +1,4 @@
-👋 Hey there! I'm Bikramjeet Singh
+👋 Hey there! I'm Bikram Jeet Singh
 🌍 Aspiring Full-Stack Developer | 🚀 Tech Enthusiast
 
 💻 I’m passionate about building web and software projects that make a difference!
