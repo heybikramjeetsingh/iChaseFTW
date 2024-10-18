@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @heyBikramJeetSingh
-- 👀 I’m interested in web development, coding, and technology.
-- 🌱 I’m currently learning HTML, CSS, and JavaScript.
-- 💞️ I’m looking to collaborate on web development projects.
-- 📫 How to reach me: LinkedIn | in/heybikramjeetsingh.
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: I recently started learning web development without a CS degree and am determined to succeed!
-<!---
-iChaseFTW/iChaseFTW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hey there! I'm Bikramjeet Singh
+🌍 Aspiring Full-Stack Developer | 🚀 Tech Enthusiast
+
+💻 I’m passionate about building web and software projects that make a difference!
+✨ Currently diving deep into Java, HTML, CSS, and JavaScript.
+
+📈 Working on cool projects like Crypto Risk Analyzer, focusing on financial insights through data!
+🎓 Self-taught and determined, I believe in learning by doing and growing through challenges.
+
+⚙️ Tech Stack:
+
+Frontend: HTML, CSS,
+Backend: JavaScript, Java, APIs
+Tools: Git, Maven
+
+💡 Always eager to explore new technologies, collaborate on open-source projects, and contribute to the developer community.
+
+Let’s connect and create something awesome together! 😄👨‍💻
